@@ -1,5 +1,5 @@
 ## O que você sabe fazer do que está sendo apresentado?
-	Implementar no programa os comandos capacity e size.
+	Implementar no programa os comandos capacity, reserve e size. Com dificuldade.
 ## Como vocês dividiram/fizeram a atividade?
 	Fui orientado pelo meu colega Ronier.
 
