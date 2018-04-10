@@ -18,7 +18,6 @@ void quadrado(Pen &p, int tam, int l){
 }
 
 
-
 void rotacao(Pen &p, int tam){
     if(tam < 5){
         return;
