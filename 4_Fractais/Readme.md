@@ -14,11 +14,8 @@ Foi feito em 6h, intercalando pesquisas, diversão em fazer os desenhos e ver os
 Programado em C++, usando o IDE Qt Creator.
 
 Contém os seguintes fractais:
-//    fractal_trigo(p);
-//    fractal_rotacao(p);
-//    fractal_espiral(p);
-//    fractal_circulo(p);
-//    fractal_triangulo(p);
-//    fractal_gelo(p);
-//    fractal_arvore(p);
+//    fractal_trigo(p);     //    fractal_rotacao(p);    //    fractal_espiral(p);    //    fractal_circulo(p);
+
+//    fractal_triangulo(p);    //    fractal_gelo(p);    //    fractal_arvore(p);
+
 //    fractal_girasol(p); //prototipo pessoal, não conta.
