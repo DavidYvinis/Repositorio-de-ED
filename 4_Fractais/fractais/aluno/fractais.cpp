@@ -5,7 +5,7 @@
 using namespace std;
 
 
-void quadrado(Pen &p, int tam, int l){ // l é o lado do quadrado
+void quadrado(Pen &p, int tam, int l){ 
     if(l < 1){
         return;
     }
